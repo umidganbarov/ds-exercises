@@ -23,15 +23,5 @@ the dependencies listed below.
 - Separates practice/throwaway work from my actual portfolio, so that repo
   stays focused on finished, presentable projects.
 
-## Setup
 
-```bash
-pip install -r requirements.txt
-```
 
-## Notes
-
-Code here prioritizes speed of iteration over polish — expect minimal
-comments, no tests, and scripts that assume a specific dataset is present
-locally. Datasets used are mostly from Kaggle and aren't committed to the
-repo; each script notes which dataset it expects.
