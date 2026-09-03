@@ -10,11 +10,6 @@ Exercises are organized loosely by topic or dataset. Each script is
 self-contained and runnable on its own — no shared setup required beyond
 the dependencies listed below.
 
-```
-├── pandas/          # data cleaning, merging, apply, datetime handling
-├── sklearn/          # pipelines, model comparison, cross-validation
-└── ...
-```
 
 ## Why this exists
 
